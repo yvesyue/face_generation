@@ -1,5 +1,6 @@
-Project Overview
-Introduction
+##Project Overview
+
+##Introduction
 In this project, I builded a custom generative adversarial network to generate new images of faces.
 This images show faces of celebrities from the CelebA dataset.
 Processed CelebA face data.
